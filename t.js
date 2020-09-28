@@ -1,4 +1,4 @@
-var drugpromise=d3.json("drugtesting.json")
+var drugpromise=d3.json("drugTesting.json")
 
 var successFCN=  function(drugTesting)
 {
