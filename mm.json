@@ -1,0 +1,29 @@
+var drugTesting={
+
+  "drug":"CobraVenom",
+
+  "trials": [
+
+    {
+
+      "males":13,
+
+      "females":3,
+
+      "fatalities":8
+
+    },
+
+      {
+
+      "males":2,
+
+      "females":7,
+
+      "fatalities":9
+
+    },
+
+  ]
+
+}
